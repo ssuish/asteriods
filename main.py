@@ -1,3 +1,4 @@
+import sys
 import pygame
 
 from asteroidfield import AsteroidField
@@ -42,8 +43,15 @@ def main():
         dt = clock.tick(60) / 1000
 
         updatable.update(dt)
+
+        for asteriod in asteroids:
+            if asteriod.collides_with(player):
+                log_event("player_hit")
+                print("Game over!")
+                sys.exit()
         
         pygame.display.flip()
+        
 
 if __name__ == "__main__":
     main()
