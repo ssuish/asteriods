@@ -37,18 +37,18 @@ asteriods/
 
 ## Features To-Do
 
-1. **Add a scoring system** - Track and display player score based on asteroids destroyed
-2. **Implement multiple lives and respawning** - Give the player multiple chances before game over
-3. **Add an explosion effect for the asteroids** - Visual feedback when asteroids are destroyed
-4. **Add acceleration to the player movement** - Make movement feel more realistic with momentum
-5. **Make the objects wrap around the screen instead of disappearing** - Classic Asteroids screen wrapping behavior
-6. **Add a background image** - Enhance visual appeal with a space background
-7. **Create different weapon types** - Implement various shot types (rapid fire, spread shot, etc.)
-8. **Make the asteroids lumpy instead of perfectly round** - Use polygon shapes for more interesting asteroid visuals
-9. **Make the ship have a triangular hit box instead of a circular one** - More accurate collision detection for the triangular ship
-10. **Add a shield power-up** - Temporary invincibility or damage reduction
-11. **Add a speed power-up** - Temporary boost to player movement speed
-12. **Add bombs that can be dropped** - Area-of-effect weapon to clear multiple asteroids
+- [ ] **Add a scoring system** - Track and display player score based on asteroids destroyed
+- [ ] **Implement multiple lives and respawning** - Give the player multiple chances before game over
+- [ ] **Add an explosion effect for the asteroids** - Visual feedback when asteroids are destroyed
+- [ ] **Add acceleration to the player movement** - Make movement feel more realistic with momentum
+- [ ] **Make the objects wrap around the screen instead of disappearing** - Classic Asteroids screen wrapping behavior
+- [ ] **Add a background image** - Enhance visual appeal with a space background
+- [ ] **Create different weapon types** - Implement various shot types (rapid fire, spread shot, etc.)
+- [ ] **Make the asteroids lumpy instead of perfectly round** - Use polygon shapes for more interesting asteroid visuals
+- [ ] **Make the ship have a triangular hit box instead of a circular one** - More accurate collision detection for the triangular ship
+- [ ] **Add a shield power-up** - Temporary invincibility or damage reduction
+- [ ] **Add a speed power-up** - Temporary boost to player movement speed
+- [ ] **Add bombs that can be dropped** - Area-of-effect weapon to clear multiple asteroids
 
 ## Recommendations for Improvement
 
